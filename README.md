@@ -1,1 +1,2 @@
 ## This is Computer Networking Lab in Cisco Packet Tracer.
+Where we used cisco packet tracer to design network and configure router, switch, hub and endpoint devices for packet transfer. Further we configured VLAN, Trunk and router on stick. Also we configured DNS, DHCP and FTP .
